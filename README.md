@@ -8,5 +8,5 @@ The project prototype is as shown below
 <p>The project color and font specification is shown below</p>
 <p><img src="./color-for-web-page.png" alt="color and font style"></p>
 <p>My designed webpage preview is as shown below
-<h2><a href="iswanna.github.io/landing-page">Live Preview of my website</a></h2>
+<h2><a href="https://iswanna.github.io/landing-page">Live Preview of my website</a></h2>
 
