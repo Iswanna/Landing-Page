@@ -1,9 +1,84 @@
+/*this is border declaration only*/
 
+body {
+    border: 5px dashed blue;
+}
 
+.hero {
+    border: 4px dashed red;
+}
+
+.header {
+    border: 5px solid black;
+}
+.header-logo {
+    border: 2px dashed blue;
+}
+.group {
+    border: 3px dashed red;
+}
+li {
+    border: 2px solid green;
+}
+.main {
+    border: 5px solid red;
+}
+.flex-one {
+    border: 4px dashed greenyellow;
+}
+.hero-main-text {
+    border: 2px solid green;
+}
+.box {
+    border: 2px dashed lightcoral;
+}
+.footer {
+    border: 2px solid red;
+}
+.main2 {
+    border: 3px dashed black;
+}
+.information {
+    border: 3px solid blue;
+}
+.subtext {
+    border: 5px dashed purple;
+}
+.subtext-image {
+    border: 3px solid blue;
+}
+.emptyforimg {
+    border: 2px dashed green;
+}
+.quote {
+    border: 3px solid red;
+}
+.quote-one {
+    border: 2px dashed black;
+}
+.quote-author {
+    border: 2px solid green;
+}
+.action {
+    border: 5px dashed rebeccapurple;
+}
+.action-one {
+    border: 3px solid black;
+}
+.call-to-action {
+    border: 3px solid green;
+}
+.button2 {
+    border: 3px dashed darkorange;
+}
+.call {
+    border: 2px dashed gray;
+}
+/*this is the end of border declaration*/
 
 body {
     margin: 0px;
-    height: 1400px;
+    height: 1500px;
     box-sizing: border-box;
     background: white;
     display: flex;
@@ -82,7 +157,7 @@ button {
 .footer {
     display: flex;
     margin-top: auto;
-    height: 70px;
+    height: 50px;
     justify-content: center;
     align-items: center;
 }
@@ -180,7 +255,6 @@ button {
 .button-one {
     padding: 3px 20px;
     color: #E5E7E8;
-    margin-top: 5px;
 }
 
 .call-to-action {
