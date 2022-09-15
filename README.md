@@ -7,6 +7,12 @@ The project prototype is as shown below
 <P><img src="./desired-result.png" alt="project product design"></P>
 <p>The project color and font specification is shown below</p>
 <p><img src="./color-for-web-page.png" alt="color and font style"></p>
-<p>My designed webpage preview is as shown below
-<h2><a href="https://iswanna.github.io/landing-page">Live Preview of my website</a></h2>
+<h2><strong>Project Result</strong></h2>
+  <ul>
+    <li><h2><a href="https://iswanna.github.io/landing-page">Live Preview of my website</h2></a></li>
+  </ul>
+<h2><strong>Acknowledgement</strong></h2>
+  <ul>
+    <li>Project Assignment Author: The Odin Project</li>
+   
 
